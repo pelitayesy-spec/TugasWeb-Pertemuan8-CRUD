@@ -51,11 +51,22 @@ TugasWeb-Pertemuan8-CRUD/
 
 ## Screenshot
 
-> Ganti bagian ini dengan screenshot aplikasimu (taruh file gambar di folder `screenshots/`).
+## Screenshot
+
+### Fitur Wajib
 
 | Halaman | Screenshot |
 |---|---|
-| Daftar produk | ![list](screenshots/list.png) |
-| Tambah produk | ![create](screenshots/create.png) |
-| Edit produk | ![edit](screenshots/edit.png) |
-| Konfirmasi hapus | ![delete](screenshots/delete.png) |
+| Daftar produk | ![list](list.png) |
+| Tambah produk | ![create](create.png) |
+| Edit produk | ![edit](edit.png) |
+| Konfirmasi hapus | ![delete](delete.png) |
+
+### Fitur Bonus
+
+| Fitur | Screenshot |
+|---|---|
+| Pencarian | ![search](search.png) |
+| Pagination | ![pagination](pagination.png) |
+| Log aktivitas (hasil transaction) | ![log](log.png) |
+| Export CSV | ![export](export.png) |
